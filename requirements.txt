@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+sentencepiece
+matplotlib
+scikit-learn
+pandas
+groq
